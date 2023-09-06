@@ -8,7 +8,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'my-red': '#FF5B50'
+        'my-red': '#FF5B50',
+        'main': '#0E0E0E'
       },
       fontFamily: {
         inter: ['var(--font-inter)'],

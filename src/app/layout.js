@@ -12,10 +12,10 @@ const montserrat = Montserrat({
   variable: '--font-montserrat'
 })
 
-export const metadata = {
-  title: 'Rocket NFTs',
-  description: 'Descubra a verdadeira arte digital e colecione diversas NFTs',
-}
+  export const metadata = {
+    title: 'Rocket NFTs',
+    description: 'Descubra a verdadeira arte digital e colecione diversas NFTs',
+  }
 
 export default function RootLayout({ children }) {
   return (
